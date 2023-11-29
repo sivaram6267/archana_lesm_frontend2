@@ -14,7 +14,7 @@ import axios from "axios";
 //  const BASE_URL = "http://10.81.4.23:2030"; // server pc
 //const BASE_URL = "http://localhost:2032"
 // const BASE_URL = "http://localhost:2020"; //umer pc
-const BASE_URL = "http://10.81.4.89:2020";
+const BASE_URL = "http://3.211.68.96:2020";
 //sowmya pc
 // const BASE_URL = "http://10.81.4.197:2021"; // chamu pc
 // const BASE_URL = "http://10.81.3.30:9090"; // charan pc
